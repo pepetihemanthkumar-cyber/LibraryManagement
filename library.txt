@@ -1,3 +1,9 @@
 Library Management System
+Books: 200
+Feature: Add and manage booksLibrary Management System
+<<<<<<< HEAD
 Books: 150
+=======
+Books: 200
+>>>>>>> feature/update-inventory
 Feature: Add and manage books
